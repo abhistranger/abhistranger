@@ -3,16 +3,18 @@
 <!--
 **abhistranger/abhistranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2], or on [![Instagram][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: https://i.pinimg.com/originals/dd/ca/b7/ddcab749bde82b971c58cc6e80c462e4.jpg
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/abhi_nav.kumar/
-[2]: https://www.linkedin.com/in/abhinav-kumar-45291b195/
+<br/> You can find me on 
+<a href="https://www.linkedin.com/in/abhinav-kumar-45291b195/" target="_blank">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>, 
+<a href="https://www.instagram.com/abhi_nav.kumar/" target="_blank">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>, 
+<a href="https://codeforces.com/profile/abhistranger"target="_blank">
+  <img align="left" alt="codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a> or 
+<a href="https://www.codechef.com/users/abhistranger"target="_blank">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<br/>
