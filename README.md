@@ -2,7 +2,7 @@
 # You can find me on:
 <br/>
 <a href="https://www.linkedin.com/in/abhinav-kumar-45291b195/" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" height="22px" src="https://i.pinimg.com/originals/47/fc/f1/47fcf1a0d27d6ca97941d6de5f80aafc.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abhi_nav.kumar/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
